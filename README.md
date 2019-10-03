@@ -5,7 +5,11 @@ A simple example on how Gromacs maps forcefield parameters (OPLS) to a structure
 Gromacs 5.0 or later version installed
 
 ## Usage
-Run ./run.sh from the command line. This scripts uses ``grompp`` to read the input files and generate a binary *.tpr) file, and it uses ``mdrun`` to
+From the command line run:
+```bash
+./run.sh
+``` 
+This scripts uses ``grompp`` to read the input files and generate a binary *.tpr) file, and it uses ``mdrun`` to
 run the MD simulation based in the generated tpr file. 
 
 ## Output
