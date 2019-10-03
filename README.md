@@ -9,7 +9,7 @@ From the command line run:
 ```bash
 ./run.sh
 ``` 
-This scripts uses ``grompp`` to read the input files and generate a binary *.tpr) file, and it uses ``mdrun`` to
+This scripts uses ``grompp`` to read the input files and generate a binary (.tpr) file, and it uses ``mdrun`` to
 run the MD simulation based in the generated tpr file. 
 
 ## Output
