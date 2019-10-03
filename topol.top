@@ -1,0 +1,8 @@
+#include "my_templates/opls/methanol.itp"
+
+[ system ]
+methanol
+
+[ molecules ]
+;molecule name   nr.
+MET             1
