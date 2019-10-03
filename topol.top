@@ -1,4 +1,4 @@
-#include "my_templates/opls/methanol.itp"
+#include "my_templates/oplsaa.ff/methanol.itp"
 
 [ system ]
 methanol
