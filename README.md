@@ -17,3 +17,8 @@ Stored in output dir under the filename methNVE*
 
 ## Templates
 The simulation is setup to use the OPLS forcefield based on the gromacs template library (stored in gro_ff_tmplts/oplsaa.ff) and a user-defined template file (my_ff_tmplts/oplsaa.ff/methanol.itp).
+
+## References
+Gromacs preprocessor source code:
+- [grompp cpp](https://github.com/gromacs/gromacs/blob/master/src/gromacs/gmxpreprocess/grompp.cpp)
+- [grompp header](https://github.com/gromacs/gromacs/blob/master/src/gromacs/gmxpreprocess/grompp.h)
