@@ -1,4 +1,4 @@
-#include "../../gromacs_templates/oplsaa.ff/forcefield.itp" 
+#include "../../gro_ff_tmplts/oplsaa.ff/forcefield.itp" 
 ; equivalent to #include <oplsaa.ff/forcefield.itp>
 
 
