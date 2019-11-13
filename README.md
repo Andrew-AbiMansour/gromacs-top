@@ -10,7 +10,7 @@ From the command line run:
 ./run.sh
 ``` 
 This scripts uses ``grompp`` to read the input files and generate a binary (.tpr) file, and it uses ``mdrun`` to
-run the MD simulation based in the generated tpr file. 
+run the MD simulation based on the generated tpr file. 
 
 ## Output
 Stored in output dir under the filename methNVE*
